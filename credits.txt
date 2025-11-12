@@ -1,0 +1,33 @@
+Here are all the assets we used for this project:
+
+Characters (Peasant, guard 1 and guard 2) and various animations from 
+mixamo.
+
+Chest
+https://sketchfab.com/3d-models/treasure-chest-8bdf3dee4f344e36839c4c1c7e1dcd2b
+by JSlyin
+
+3D key 
+https://sketchfab.com/3d-models/rust-key-dbba2fadae1b48adb03c62123a4babcf
+by KloWorks
+
+Key icon
+https://www.vecteezy.com/free-vector/pixel-key
+
+Eye texture
+https://sarablanco-jugamosacontarmentiras.blogspot.com/2021/04/eye-texture-515262-eye-texture-c4d.html
+
+Inspiration for the maze
+https://www.vectorstock.com/royalty-free-vector/3d-gray-maze-top-view-vector-22963351
+
+Textures for ground, ceiling and floor:
+https://polyhaven.com/
+
+Sounds:
+
+Onion king noise from the game Overcooked! by Ghost Town Games
+
+Ambient music: https://www.youtube.com/watch?v=n-mCIDx3SfE by Mister Ambience
+
+One man Cheering noise (we modified the pitch to a lower one) 
+https://youtu.be/a87WWil93Ek?si=H-c3s2MRgWv-IuK3 
