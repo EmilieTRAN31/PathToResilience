@@ -10,11 +10,11 @@ Your objective is to move through a sequence of rooms, each containing a puzzle 
 
 1. Download the project
 
-`git clone https://github.com/EmilieTRAN31/PathToResilience.git`
+  `git clone https://github.com/EmilieTRAN31/PathToResilience.git`
 
-3. Run the game
+2. Run the game
 
-Launch _The Path To Resilience.exe_
+  Launch _The Path To Resilience.exe_
 
 # How to Play
 
